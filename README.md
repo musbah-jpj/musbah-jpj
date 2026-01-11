@@ -1,4 +1,5 @@
 20
 
-@BilkentCS
+@bilkentCS
+
 currently a sophomore
